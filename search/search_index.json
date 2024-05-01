@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"user-guide/contributions/","title":"Contributions","text":"<p>SciComp provided this training to its team members. </p>"},{"location":"user-guide/run/","title":"3. Running the Pipeline","text":"<p>Testing to see if changes made to build_mkdocs.yml work correctly.</p>"}]}
